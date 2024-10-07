@@ -1,0 +1,26 @@
+[
+    {
+        "name": "River Adventure",
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/12/01/03/17/nature-2990060_1280.jpg",
+        "numberOfNights": 5,
+        "city": "River Town"
+    },
+    {
+        "name": "Cosy City",
+        "imgUrl": "https://cdn.pixabay.com/photo/2023/03/17/02/42/architecture-7857832_1280.jpg",
+        "numberOfNights": 5,
+        "city": "Budapest"
+    },
+    {
+        "name": "Party on a Boat",
+        "imgUrl": "https://cdn.pixabay.com/photo/2023/05/18/16/25/boat-8002718_1280.jpg",
+        "numberOfNights": 5,
+        "city": "MSS Party"
+    },
+    {
+        "name": "Lovles Mountain Town",
+        "imgUrl": "https://cdn.pixabay.com/photo/2022/10/24/11/55/autumn-7543217_1280.jpg",
+        "numberOfNights": 5,
+        "city": "Sistrans"
+    }
+]

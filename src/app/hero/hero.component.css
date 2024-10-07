@@ -1,0 +1,16 @@
+div {
+  height: 40vh;
+  /* width: 100%; */
+  /* background-color: coral; */
+  background-image: url("https://cdn.pixabay.com/photo/2017/12/01/03/17/nature-2990060_1280.jpg");
+  background-position: center;
+  background-size: cover;
+
+  /* background-content: cover; */
+}
+/* div img {
+  height: 40vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+} */

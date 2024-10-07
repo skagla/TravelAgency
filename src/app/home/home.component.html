@@ -1,0 +1,12 @@
+<!-- <div class="w-100 row row-cols-3">
+  <app-card></app-card>
+  <app-card></app-card>
+  <app-card></app-card>
+</div> -->
+<div class="w-100 row row-cols-2 align-items-center justify-content-center">
+  <app-card
+    *ngFor="let destination of destinations"
+    [name]="destination.name"
+    [imgUrl]="destination.imgUrl"
+  ></app-card>
+</div>
